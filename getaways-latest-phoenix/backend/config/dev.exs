@@ -2,8 +2,8 @@ import Config
 
 # Configure your database
 config :getaways, Getaways.Repo,
-  username: "postgres",
-  password: "postgres",
+  username: "emmanuel",
+  password: "emmanuel",
   hostname: "localhost",
   database: "getaways_dev",
   stacktrace: true,
